@@ -8,4 +8,3 @@
 * Robin
 * Volcán Negro
 * Atom
-* Nightwing
