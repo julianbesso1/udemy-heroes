@@ -7,3 +7,4 @@
 * Robin
 * Volcán Negro
 * BirdMan
+* Green Lantern
