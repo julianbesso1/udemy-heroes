@@ -8,3 +8,4 @@
 * Volcán Negro
 * BirdMan
 * Green Lantern
+* Master
