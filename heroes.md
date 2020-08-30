@@ -6,6 +6,3 @@
 * Mujer Maravilla
 * Robin
 * Volcán Negro
-* BirdMan
-* Green Lantern
-* Master
